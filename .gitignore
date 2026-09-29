@@ -1,0 +1,8 @@
+# Binaries & Executables
+*.exe
+*.o
+*.obj
+
+# Python
+__pycache__/
+*.py[cod]
